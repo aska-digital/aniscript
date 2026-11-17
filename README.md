@@ -1,0 +1,2 @@
+# aniscript
+exploring animation scripts 
